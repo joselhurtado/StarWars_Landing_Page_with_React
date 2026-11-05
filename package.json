@@ -77,7 +77,7 @@
 		"@splinetool/react-spline": "^2.2.1",
 		"@splinetool/runtime": "^0.9.84",
 		"prop-types": "^15.7.2",
-		"query-string": "^7.0.1",
+		"query-string": "^10.0.0",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"react-polyfills": "0.0.1",
